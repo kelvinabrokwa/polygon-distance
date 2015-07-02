@@ -1,0 +1,23 @@
+{
+  "name": "polygon-distance",
+  "version": "0.0.1",
+  "description": "Find the shortest distance between two polygons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvinabrokwa/polygon-distance.git"
+  },
+  "author": "Kelvin Abrokwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelvinabrokwa/polygon-distance/issues"
+  },
+  "homepage": "https://github.com/kelvinabrokwa/polygon-distance#readme",
+  "dependencies": {
+    "turf-distance": "^1.0.1",
+    "turf-point": "^2.0.1"
+  }
+}
